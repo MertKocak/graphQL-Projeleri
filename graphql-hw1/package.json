@@ -1,0 +1,20 @@
+{
+  "name": "graphql-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graphql.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "@apollo/server-plugin-landing-page-graphql-playground": "^4.0.1",
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.9.0"
+  }
+}
